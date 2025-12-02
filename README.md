@@ -83,8 +83,6 @@ here is a demo,
 
 4 . It will be a value between [0,1]. If it is 0 then both vectors are complete different. But in the place of that if it is 1, It will be completely similar.
 
-5 . For more details , check URL : https://www.learndatasci.com/glossary/cosine-similarity/
-
 # How to run?
 ### STEPS:
 
@@ -122,9 +120,4 @@ streamlit run app.py
 ```
 
 
-```bash
-Author: M.eswar
-Data Engineer
-Email:saieswarmallinagmail.com
 
-```
